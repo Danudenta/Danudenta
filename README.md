@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 # Hi there, I'm Danudenta! 👋
 
 I am a passionate Software Engineering student with a strong interest in backend development, database architecture, and local AI integration. Currently, I am expanding my knowledge in web frameworks and leading project-based teams to build practical applications.
